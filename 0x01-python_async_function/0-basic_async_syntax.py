@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """
 This module contains an asynchronous coroutine that takes an int argument
 'max_delay' and waits for a random delay between 0 and 'max_delay' seconds
